@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "///polygor1.github.io/react-abc/static/css/main.afd7172b.chunk.css",
+    "main.js": "///polygor1.github.io/react-abc/static/js/main.e0edfe21.chunk.js",
+    "main.js.map": "///polygor1.github.io/react-abc/static/js/main.e0edfe21.chunk.js.map",
+    "runtime-main.js": "///polygor1.github.io/react-abc/static/js/runtime-main.c8a71b46.js",
+    "runtime-main.js.map": "///polygor1.github.io/react-abc/static/js/runtime-main.c8a71b46.js.map",
+    "static/js/2.8a3e6942.chunk.js": "///polygor1.github.io/react-abc/static/js/2.8a3e6942.chunk.js",
+    "static/js/2.8a3e6942.chunk.js.map": "///polygor1.github.io/react-abc/static/js/2.8a3e6942.chunk.js.map",
+    "index.html": "///polygor1.github.io/react-abc/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "///polygor1.github.io/react-abc/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.8a3e6942.chunk.js.LICENSE.txt": "///polygor1.github.io/react-abc/static/js/2.8a3e6942.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a71b46.js",
+    "static/js/2.8a3e6942.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.e0edfe21.chunk.js"
+  ]
+}
